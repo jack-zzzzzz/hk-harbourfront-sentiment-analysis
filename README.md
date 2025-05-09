@@ -51,4 +51,4 @@ OR
 
 ## License
 
-This dataset is shared under the [Choose Your License, e.g., CC BY 4.0] license. See `LICENSE.md` for details.
+This dataset is shared under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See `LICENSE.md` for details.
